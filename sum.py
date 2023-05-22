@@ -1,4 +1,4 @@
 def sum(a,b):
     a=1
     b=2
-    print(a+b)
+    print("The sum is",a+b)
